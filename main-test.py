@@ -2,7 +2,7 @@
 from main import Add
 
 def TestAdd():
-        assert Add(10,7) == 17
+        assert Add(9,7) == 16
         print("Add Function works correctly")
 
 if __name__ == '__main__':
